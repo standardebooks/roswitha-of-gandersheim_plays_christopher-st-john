@@ -1,6 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* Drama CSS */
+
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -97,4 +99,11 @@ section[epub|type~="z3998:scene"] > p{
 
 li > :first-child{
 	text-indent: 0;
+}
+
+/* Section Subtitle */
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
 }
