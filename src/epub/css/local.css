@@ -76,6 +76,15 @@ li > :first-child{
 	text-indent: 0;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
 /* Section Subtitle */
 span[epub|type~="subtitle"]{
 	display: block;
