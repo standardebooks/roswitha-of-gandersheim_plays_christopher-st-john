@@ -94,7 +94,7 @@
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dulcitius.xhtml" id="dulcitius.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/foreward.xhtml" id="foreward.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gallicanus.xhtml" id="gallicanus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -113,7 +113,7 @@
 		<itemref idref="translator-note.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
-		<itemref idref="foreward.xhtml"/>
+		<itemref idref="foreword.xhtml"/>
 		<itemref idref="prefaces.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="gallicanus.xhtml"/>
