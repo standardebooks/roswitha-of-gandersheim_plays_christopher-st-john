@@ -54,12 +54,6 @@
 	width: 100%;
 }
 
-section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-	display: block;
-	font-size: .75em;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
@@ -78,31 +72,11 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-variant: all-small-caps;
 }
 
-p[epub|type~="z3998:stage-direction"]{
-	text-align: center;
-	text-indent: 0;
-}
-
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
-}
-
-#the-scenes-of-the-play{
-	text-align: center;
-}
-
-#the-scenes-of-the-play table{
-	margin: auto;
-	text-align: left;
-}
-
 li > :first-child{
 	text-indent: 0;
 }
 
 /* Section Subtitle */
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
