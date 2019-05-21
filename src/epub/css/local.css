@@ -18,6 +18,11 @@
 	font-style: italic;
 }
 
+[epub|type~="z3998:dramatis-personae"] ul ul li{
+	margin: 0em;
+	font-style: normal;
+}
+
 [epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 }
@@ -52,6 +57,7 @@
 [epub|type~="z3998:drama"] table{
 	margin: 1em auto;
 	width: 100%;
+	border-collapse: collapse;
 }
 
 [epub|type~="z3998:stage-direction"]{
