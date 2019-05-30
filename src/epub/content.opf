@@ -27,23 +27,23 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Plays</dc:title>
 		<meta property="file-as" refines="#title">Plays</meta>
 		<dc:subject id="subject-1">Hrotsvitha, approximately 935-approximately 975--Translations into English</dc:subject>
 		<dc:subject id="subject-2">Christian drama, Latin (Medieval and modern)--Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/23011875</meta>
-		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/23011875</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Roswitha, also known as Hrotsvitha of Gandersheim, was a tenth century German canoness, dramatist, and poet. A remarkable woman, she has been called the first Western playwright since antiquity as well as the first known woman playwright. She was inspired by the Roman comic playwright Terence, who wrote six farces filled with disguises, misunderstandings, and pagan debauchery. Upset by Terence’s immoral subject matter but also inspired by his well-crafted plays, Roswitha sought to “Christianize” his work by writing six plays of her own.&lt;/p&gt;
 			&lt;p&gt;Roswitha wrote six dramas in Latin. Two are concerned with the conversation of nonbelievers (&lt;i&gt;Gallicanus&lt;/i&gt; and &lt;i&gt;Callimachus&lt;/i&gt;), two are concerned with the repentance of sinners (&lt;i&gt;Abraham&lt;/i&gt; and &lt;i&gt;Paphnutius&lt;/i&gt;), and two are concerned with the martyrdom of virgins (&lt;i&gt;Dulcitus&lt;/i&gt; and &lt;i&gt;Sapientia&lt;/i&gt;).&lt;/p&gt;
 			&lt;p&gt;This edition, originally published in 1923, includes an introduction by Cardinal Francis Aidan Gasquet (an English Benedictine monk and scholar), a critical preface by the translator (Christopher St. John), and prefaces written by Roswitha herself.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/playsofroswitha00hrotuoft</dc:source>
 		<dc:source>https://github.com/cncoulter/Transcription_The-Plays-of-Roswitha</dc:source>
