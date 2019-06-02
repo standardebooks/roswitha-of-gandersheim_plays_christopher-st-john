@@ -47,8 +47,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/playsofroswitha00hrotuoft</dc:source>
 		<dc:source>https://github.com/cncoulter/Transcription_The-Plays-of-Roswitha</dc:source>
-		<meta property="se:word-count">35367</meta>
-		<meta property="se:reading-ease.flesch">75.71</meta>
+		<meta property="se:word-count">34802</meta>
+		<meta property="se:reading-ease.flesch">75.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hrotsvitha#Comedies</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/roswitha-of-gandersheim_plays_christopher-st-john</meta>
 		<dc:creator id="author">Roswitha of Gandersheim</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
