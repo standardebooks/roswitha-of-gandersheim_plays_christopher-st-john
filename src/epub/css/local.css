@@ -76,7 +76,7 @@
 	font-variant: all-small-caps;
 }
 
-li > :first-child{
+li > *:first-child{
 	text-indent: 0;
 }
 
