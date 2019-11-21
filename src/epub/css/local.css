@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Drama CSS */
-
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
