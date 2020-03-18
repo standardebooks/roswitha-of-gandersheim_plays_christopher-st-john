@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of Plays, by Roswitha of Gandersheim. Translated by Christopher St. John</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
@@ -15,8 +15,9 @@
 		.author{
 			font-size: 70.17543793px;
 		}
+
 		.contributor-descriptor{
-			font-family: OFL Sorts Mill Goudy;
+			font-family: "OFL Sorts Mill Goudy";
 			font-size: 42.5079689px;
 			font-style: italic;
 			letter-spacing: 0;
