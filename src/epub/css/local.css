@@ -94,9 +94,3 @@ section[epub|type~="dedication"] header{
 	font-variant: small-caps;
 	text-align: center;
 }
-
-/* Section Subtitle */
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
