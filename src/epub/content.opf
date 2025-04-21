@@ -36,6 +36,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/roswitha-of-gandersheim"&gt;Roswitha&lt;/a&gt;, also known as Hrotsvitha of Gandersheim, was a tenth century German canoness, dramatist, and poet. A remarkable woman, she has been called the first Western playwright since antiquity as well as the first known woman playwright. She was inspired by the Roman comic playwright Terence, who wrote six farces filled with disguises, misunderstandings, and pagan debauchery. Upset by Terence’s immoral subject matter but also inspired by his well-crafted plays, Roswitha sought to “Christianize” his work by writing six plays of her own.&lt;/p&gt;
