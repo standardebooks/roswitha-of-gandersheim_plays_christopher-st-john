@@ -64,14 +64,14 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no96026000</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">waw</meta>
 		<dc:contributor id="artist">Frederic Edwin Church</dc:contributor>
 		<meta property="file-as" refines="#artist">Church, Frederic Edwin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frederic_Edwin_Church</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81068777</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="author-of-introduction">Francis Aidan Gasquet</dc:contributor>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="producer-1">Cameron Coulter</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Coulter, Cameron</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://www.cncoulter.com/</meta>
