@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.</dc:abstract>
+		<meta property="schema:abstract">The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/roswitha-of-gandersheim"&gt;Roswitha&lt;/a&gt;, also known as Hrotsvitha of Gandersheim, was a tenth century German canoness, dramatist, and poet. A remarkable woman, she has been called the first Western playwright since antiquity as well as the first known woman playwright. She was inspired by the Roman comic playwright Terence, who wrote six farces filled with disguises, misunderstandings, and pagan debauchery. Upset by Terence’s immoral subject matter but also inspired by his well-crafted plays, Roswitha sought to “Christianize” his work by writing six plays of her own.&lt;/p&gt;
 			&lt;p&gt;Roswitha wrote six dramas in Latin. Two are concerned with the conversation of nonbelievers (&lt;i&gt;Gallicanus&lt;/i&gt; and &lt;i&gt;Callimachus&lt;/i&gt;), two are concerned with the repentance of sinners (&lt;i&gt;Abraham&lt;/i&gt; and &lt;i&gt;Paphnutius&lt;/i&gt;), and two are concerned with the martyrdom of virgins (&lt;i&gt;Dulcitus&lt;/i&gt; and &lt;i&gt;Sapientia&lt;/i&gt;).&lt;/p&gt;
