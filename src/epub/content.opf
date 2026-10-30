@@ -75,6 +75,7 @@
 		<link href="https://id.loc.gov/authorities/names/n81068777.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="author-of-introduction">Francis Aidan Gasquet</dc:contributor>
+		<meta property="file-as" refines="#author-of-introduction">Gasquet, Francis Aidan</meta>
 		<link href="https://en.wikipedia.org/wiki/Francis_Aidan_Gasquet" refines="#author-of-introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="producer-1">Cameron Coulter</dc:contributor>
